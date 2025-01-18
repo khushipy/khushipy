@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khushipy&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushipy&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <br />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=khushipy" alt="Visitors Counter" />
+  <img src="https://komarev.com/ghpvc/?username=khushipy&style=flat-square&color=blue" alt="Visitors Counter" />
 </div>
 
 ###
