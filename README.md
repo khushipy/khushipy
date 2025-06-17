@@ -1,6 +1,6 @@
 
 <h1 align="center">✨ Hey, I’m Khushi — Building fun stuff all the way ✨</h1>
-<p align="center"><em>AI Explorer • Java Backend developer • Forever Curious</em></p>
+<p align="center"><em>AI Explorer • Backend developer • Forever Curious</em></p>
 
 <p align="center">💬 "Showing up daily." 🌸</p>
 
