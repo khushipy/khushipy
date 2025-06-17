@@ -1,65 +1,85 @@
-<h4 align="left">👋 Hey there! I'm a passionate AI explorer and backend developer, building intelligent systems and robust infrastructures to solve real-world problems. 🚀 Let's innovate together! 🌐</h4>
+
+<h1 align="center">✨ Hey, I’m Khushi — Building fun stuff all the way ✨</h1>
+<p align="center"><em>AI Explorer • Backend Sorceress • Forever Curious</em></p>
+
+<p align="center">💬 "Showing up daily." 🌸</p>
+
+---
+
+### 🌷 About Me
+
+- 👩‍💻 I craft backend systems and intelligent applications that actually solve problems.
+- 🧠 Passionate about machine learning, NLP, system design, and code architecture.
+- 💻 Languages I enjoy: **Python**, **Java**, **Go**, **JavaScript**.
+- ☁️ Exploring distributed systems, cloud infra, and everything in between.
+- 💖 I believe in beautiful UI, clean logic, and ethical AI.
+
+---
+
+### 🎬 Now Playing...
+
+<p align="center"><strong>“I did it my way 🎼.”</strong></p>
+
+---
+
+### 🛠️ My Toolkit
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushipy&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushipy&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=khushipy&style=flat-square&color=blue" alt="Visitors Counter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" />
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif"  />
+### 🥁 Drum-roll Projects
 
-###
+- [🌍 SmartCivics](https://github.com/khushipy/SmartCivics)  
+  <sub>NLP-powered civic awareness app. Decode policies. Empower citizens.</sub>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+- [💌 LoveBomb](https://github.com/khushipy/LoveBomb)  
+  <sub>A gentle, love-themed messaging space for two souls — like a love letter app. Under Construction</sub>
+
+- [📁 ApplyHere](https://github.com/khushipy/ApplyHere)  
+  <sub>One dashboard to rule all job applications, i really need this so Under Construction</sub>
+
+---
+
+### 🧃 My Socials (the only social life)
+
+<div align="center">
+  <a href="mailto:khushipaltwt@gmail.com"><img src="https://img.shields.io/badge/Gmail-rose?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/></a>
+  <a href="https://www.linkedin.com/in/khushipal08/"><img src="https://img.shields.io/badge/LinkedIn-softblue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"/></a>
+  <a href="https://x.com/KiwiKiwiuiuio"><img src="https://img.shields.io/badge/Twitter-cutegray?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/></a>
 </div>
 
-###
+---
 
-<div align="left">
-  <a href="khushipaltwt@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/khushipal08/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/KiwiKiwiuiuio" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
+### 📊 GitHub Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khushipy&show_icons=true&count_private=true&theme=rose_pine&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushipy&layout=compact&langs_count=6&theme=rose_pine&hide_border=true" height="150" />
 </div>
 
-###
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khushipy&style=flat-square&color=F9A8D4" alt="Visitors count"/>
+</p>
 
+---
 
-<br clear="both">
+### 🌸 Just Me Things
+
+- 🧘‍♀️ Love long walks, old songs, and plotting side projects at midnight.
+- ✍️ Sometimes I write... sometimes it turns into code.
+- 🧩 I’m a big fan of simple solutions to complex problems.
+
+---
+
+<p align="center"><em>Thanks for stopping by — see you on the other side of the stack! 🌈</em></p>
