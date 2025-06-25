@@ -44,7 +44,7 @@
   <sub>NLP-powered civic awareness app. Decode policies. Empower citizens.</sub>
 
 - [💌 LoveBomb](https://github.com/khushipy/LoveBomb)  
-  <sub>A gentle, love-themed messaging space for two souls — like a love letter app. Under Construction</sub>
+  <sub>A gentle, love-themed messaging space for two souls like a love letter app. Under Construction</sub>
 
 - [📁 ApplyHere](https://github.com/khushipy/ApplyHere)  
   <sub>One dashboard to rule all job applications, i really need this so Under Construction</sub>
@@ -82,4 +82,4 @@
 
 ---
 
-<p align="center"><em>Thanks for stopping by — see you on the other side of the stack! 🌈</em></p>
+<p align="center"><em>Thanks for stopping by see you on the other side of the stack! 🌈</em></p>
