@@ -49,7 +49,7 @@
 - [🌍 SmartCivics](https://github.com/khushipy/SmartCivics)  
   <sub>NLP-powered civic awareness app. Decode policies. Empower citizens.</sub>
 
-- [💌 LoveBomb](https://github.com/khushipy/LoveBomb)  
+- [💌 Dearly](https://github.com/khushipy/Dearly)  
   <sub>A gentle, love-themed messaging space for two souls like a love letter app. Under Construction</sub>
 
 - [📁 ApplyHere](https://github.com/khushipy/ApplyHere)  
