@@ -14,14 +14,8 @@
 -  Exploring distributed systems, cloud infra, and everything in between.
 -  I believe in beautiful UI, clean logic, and ethical AI.
 ---
-### 🛠️ Tech Stack
 
-**Languages:** Python, Java, Go, JavaScript, Express.js, node.js
-**Databases:** MongoDB, MySQL  
-**Tools & Skills:** REST APIs, Jupyter, TensorFlow, System Design, Clean Architecture  
-**Currently Exploring:** Distributed Systems, Multi-core parallel processing, Real-time Data Processing & Automation
-
-### 🛠️ My Toolkit
+###  My Toolkit
 
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 0 10 px;" /> 
@@ -72,4 +66,4 @@
 ---
 
 
-er"><em>Thanks for stopping by see you on the other side of the stack!</em></p>
+<p><em>Thanks for stopping by see you on the other side of the stack!</em></p>
