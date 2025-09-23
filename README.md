@@ -59,6 +59,7 @@
 
 <div align="center">
   <a href="mailto:khushipaltwt@gmail.com"><img src="https://img.shields.io/badge/Gmail-rose?style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/></a>
+  <a href="https://leetcode.com/u/KhushiPal/"><img src="https://img.shields.io/badge/LeetCode-cutegray?style=for-the-badge&logo=leetcode&logoColor=white&color=FFA116"/></a>
   <a href="https://www.linkedin.com/in/khushipal08/"><img src="https://img.shields.io/badge/LinkedIn-softblue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5"/></a>
   <a href="https://x.com/KiwiKiwiuiuio"><img src="https://img.shields.io/badge/Twitter-cutegray?style=for-the-badge&logo=twitter&logoColor=white&color=1DA1F2"/></a>
 </div>
