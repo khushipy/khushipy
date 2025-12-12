@@ -50,8 +50,8 @@
 - [ Dearly](https://github.com/khushipy/Dearly)  
   <sub>A gentle, love-themed messaging space for two souls like a love letter app. Under Construction</sub>
 
-- [ApplyHere](https://github.com/khushipy/ApplyHere)  
-  <sub>One dashboard to rule all job applications, i really need this so Under Construction</sub>
+- [Voice-Agent](https://github.com/khushipy/voice-agent)  
+  <sub>answers on voice!!</sub>
 
 ---
 
