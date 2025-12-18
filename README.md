@@ -1,11 +1,12 @@
 
 <h1 align="center">Hey, I’m Khushi Pal ~ Building fun stuff all the way </h1>
-<p align="center"><em>AI Explorer • Backend developer • Forever Curious</em></p>
+<p align="center"><em>AI • Backend developer • Forever Curious</em></p>
 
 <p align="center">"Showing up daily."</p>
 
 ---
-
+<!-- This is a hidden comment in the README file. 
+/*
 ### About Me
 
 -  I craft backend systems and intelligent applications that actually solve problems.
@@ -14,8 +15,8 @@
 -  Exploring distributed systems, cloud infra, and everything in between.
 -  I believe in beautiful UI, clean logic, and ethical AI.
 ---
-
-###  My Toolkit
+*/ -->
+###  Tech Stack
 
 <div align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" style="margin: 0 10 px;" /> 
@@ -42,7 +43,7 @@
 </p>
 
 ---
-### Best Projects
+### Check these out !!
 
 - [ SmartCivics](https://github.com/khushipy/SmartCivics)  
   <sub>NLP-powered civic awareness app. Decode policies. Empower citizens.</sub>
